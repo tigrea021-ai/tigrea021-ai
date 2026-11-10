@@ -27,10 +27,9 @@
 
 | Categoria | Tecnologias / Ferramentas |
 | :--- | :--- |
-| **Segurança & Redes** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=security&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **Linguagens & Automação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Arquitetura & Sistemas** | Hardening de Servidores, Controle de Acesso, Auditoria de Código & Logs |
-
+| **Segurança Ofensiva** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=security&logoColor=white) |
+| **Segurança Defensiva & Redes** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **Linguagens & Dados** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 ---
 
 ### 💡 Laboratórios & Projetos em Destaque
