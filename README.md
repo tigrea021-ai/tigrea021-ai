@@ -5,14 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/arthur-tigre-b8008a411" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/arthur-tigre-b8008a411"/>
+  <a href="https://www.linkedin.com/in/arthur-tigre-b8008a411" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:seu-email@example.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
-
 ---
 
 ### 🕵️ Sobre Mim
