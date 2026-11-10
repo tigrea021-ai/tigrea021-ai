@@ -3,7 +3,9 @@
 <p align="center">
   <strong>Estudante de Análise e Sistemas | Focado em Cibersegurança & Arquitetura Defensiva</strong>
 </p>
-
+            <p align="center">
+  <img src="https://raw.githubusercontent.com/tigrea021-ai/tigrea021-ai/main/istockphoto-2174551157-612x612.jpg" alt="Banner de Segurança Cibernética" width="100%" style="border-radius: 8px;" />
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-tigre-b8008a411" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
