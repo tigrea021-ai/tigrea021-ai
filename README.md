@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Arthur Tigre Francisco! 👋</h1>
+<h1 align="center">Olá, eu sou o Arthur Tigre Francisco! 🛡️</h1>
 
 <p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas | UI/UX Designer & Desenvolvedor Full-Stack</strong>
+  <strong>Estudante de Análise e Sistemas | Focado em Cibersegurança & Arquitetura Defensiva</strong>
 </p>
 
 <p align="center">
@@ -15,29 +15,28 @@
 
 ---
 
-### 🚀 Sobre Mim
+### 🕵️ Sobre Mim
 
-* 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com ênfase em arquitetura de software, modelagem de dados relacional e experiência do usuário.
-* 🎨 Apaixonado por **UI/UX Design, Acessibilidade Digital (WCAG)** e prototipagem centrada no usuário.
-* 🗄️ Experiência em modelagem de dados robusta (MySQL 8 / InnoDB), desenvolvimento de scripts DDL/DQL e integração com aplicações.
-* 🔍 Focado em auditoria de usabilidade e criação de interfaces eficientes e intuitivas.
+* 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**, unindo desenvolvimento de software robusto com boas práticas de segurança da informação.
+* 🔒 Apaixonado por **Segurança Defensiva, Análise de Vulnerabilidades, Hardening de Sistemas** e modelagem de dados segura.
+* 💻 Focado em entender a anatomia de falhas em aplicações, auditoria de código e blindagem de infraestruturas contra ameaças digitais.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Arsenal Tecnológico & Ferramentas
 
 | Categoria | Tecnologias / Ferramentas |
 | :--- | :--- |
-| **Linguagens & Dados** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **UI/UX & Prototipagem** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white) ![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=flat&logo=balsamiq&logoColor=white) |
-| **Arquitetura & Engenharia** | Modelagem de Banco de Dados (DER/Mer), WCAG, Arquitetura de Software |
+| **Segurança & Redes** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=security&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Linguagens & Automação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Arquitetura & Sistemas** | Hardening de Servidores, Controle de Acesso, Auditoria de Código & Logs |
 
 ---
 
-### 💡 Projetos em Destaque
+### 💡 Laboratórios & Projetos em Destaque
 
-* **HD Drones (Sistema de Gestão & Banco de Dados):** Modelagem completa de um banco de dados relacional (9 tabelas no MySQL 8) para controle de estoque, ordens de serviço e vendas para uma oficina de manutenção de drones.
-* **Dossier de Usabilidade e Acessibilidade:** Auditoria em formato ABNT avaliando fricções de UX e barreiras de acessibilidade em aplicativos móveis de grande porte.
+* **Análise de Fricções e Riscos em Sistemas:** Auditorias estruturadas de usabilidade, segurança e pontos críticos de falhas em ambientes corporativos e aplicações móveis.
+* **Modelagem de Dados Segura (Ex: HD Drones):** Arquitetura de banco de dados relacional voltada para integridade transacional, controle rigoroso de acesso a ordens de serviço e rastreabilidade de dados.
 
 ---
 
@@ -45,9 +44,4 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=tigrea021-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigrea021-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center"><i>"Construindo soluções eficientes focadas na experiência real de quem usa."</i></p>
+  <img height="180" src="
